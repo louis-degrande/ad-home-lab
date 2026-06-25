@@ -14,7 +14,7 @@ I'm building this lab to understand how a real domain environment works and how 
 
 # Network Diagram
 
-<img width="980" height="910" alt="image" src="https://github.com/user-attachments/assets/1b301314-6614-4058-9e58-eaaac5fc0fe5" />
+<img width="725" height="672" alt="image" src="https://github.com/user-attachments/assets/00dfdd16-8dbc-4735-912d-398484c08a60" />
 
 # Project log
 ## Part 1: Objective and planning
